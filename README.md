@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **harikrishnan4900@gmail.com**
 
-- ⚡ Fun fact **i think i am funny...**
+- ⚡ developer life **No hugs & kisses only bugs &fixes...**
+
+ - 😂 Fun Fact **copy and paste was created by programmers for programmers actually...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
